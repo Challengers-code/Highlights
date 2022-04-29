@@ -19,4 +19,4 @@ Week 2
 Week 3
 
 - Interactive Session with Mr.Adi regarding 2 weeks course.
-- Started with "Technology Foundation:2" course
+- Started with "Technology Foundation:2" course.
